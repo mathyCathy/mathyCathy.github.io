@@ -16,7 +16,7 @@ Education
   * Budapest Semesters in Mathematics, 1999  
 * Ph.D. in Mathematics, University of California, Los Angeles, 2005
 * M.S. in Biostatistics, University of California, Los Angeles, 2009
-* Ph.D in Biostatistics, Harvard University, 2017
+* Ph.D. in Biostatistics, Harvard University, 2017
 
 Current Position
 ======
