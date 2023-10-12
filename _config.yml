@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "mathyCathy"
 title_separator          : "-"
-name                     : &name "Cathy"
+name                     : &name "Cathy Lee, PhD"
 description              : &description "personal description"
 url                      : https://mathyCathy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cathy"
+  name             : "Cathy Lee, PhD"
   avatar           : "profile.png"
   bio              : "Research Scientist Biostatistician. Am finding that nothing is ever straight-forward!"
   location         : # "Location"
