@@ -18,8 +18,9 @@ Education
 * M.S. in Biostatistics, University of California, Los Angeles, 2009
 * Ph.D. in Biostatistics, Harvard University, 2017
 
-Current Position
+Positions
 ======
-* Associate Professor, Department of Epidemiology and Biostatistics, UCSF
+* Research Scientist Biostatistician, Division of Research, Kaiser Permanente Northern California, 2017-2024
+* Associate Professor, Department of Epidemiology and Biostatistics, UCSF, 2024-Present
 
   
