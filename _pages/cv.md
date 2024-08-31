@@ -20,6 +20,6 @@ Education
 
 Current Position
 ======
-* Research Scientist II Biostatistician, [Kaiser Permanente Northern California Division of Research](https://divisionofresearch.kaiserpermanente.org/)
+* Associate Professor, Department of Epidemiology and Biostatistics, UCSF
 
   
