@@ -21,6 +21,6 @@ Education
 Positions
 ======
 * Research Scientist Biostatistician, Division of Research, Kaiser Permanente Northern California, 2017-2024
-* Associate Professor, Department of Epidemiology and Biostatistics, UCSF, 2024-Present
+* Associate Professor, Department of Epidemiology and Biostatistics, University of California, San Francisco, 2024-Present
 
   
